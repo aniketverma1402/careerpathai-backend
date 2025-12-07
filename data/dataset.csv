@@ -1,0 +1,17 @@
+skills,interests,experience_years,role
+"python;sql;excel","data-analysis;reports",0,Data Analyst Intern
+"python;powerbi;excel","dashboards;business-intelligence",1,Business Analyst Intern
+"excel;sql;tableau","data-visualization;dashboards",1,Business Analyst Intern
+"python;ml;statistics","machine-learning;research",1,ML Engineer Intern
+"python;sklearn;linear-algebra","modeling;experimentation",2,ML Engineer Intern
+"python;tensorflow;nn","deep-learning;ai",2,Deep Learning Engineer Intern
+"python;pytorch;cnn","computer-vision;deep-learning",2,Deep Learning Engineer Intern
+"html;css;javascript","web-design;frontend",0,Frontend Developer Intern
+"html;css;react","single-page-apps;frontend",1,Frontend Developer Intern
+"python;django;html","web-development;backend",1,Backend Developer Intern
+"python;fastapi;sql","apis;backend",1,Backend Developer Intern
+"excel;powerbi;sql","dashboards;reporting",1,Business Analyst Intern
+"python;sql;r","data-analysis;statistics",1,Data Analyst Intern
+"javascript;react;api","frontend;ui-development",1,Frontend Developer Intern
+"linux;docker;bash","deployment;devops",1,DevOps Intern
+"git;ci-cd;docker","automation;infrastructure",1,DevOps Intern

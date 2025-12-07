@@ -1,0 +1,6 @@
+{
+  "cv_mean_accuracy": 0.75,
+  "n_samples": 16,
+  "n_classes": 7,
+  "min_class_count": 2
+}
